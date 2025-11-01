@@ -1,5 +1,5 @@
 ---
-title: "The Great Disconnect: Why Are We Losing Jobs When Companies Are Richer Than Ever?"
+title: "Why Are We Losing Jobs When Companies Are Richer Than Ever?"
 excerpt: "A deep, human-friendly look at why company growth no longer means job growth, and what you must do to protect your future in the age of AI."
 date: "2025-11-01"
 coverImage: "https://www.meetshukla.in/blog/blog3/But%20see%20this%20graph.png"
